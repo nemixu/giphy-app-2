@@ -1,0 +1,41 @@
+body {
+    background: rgb(44, 44, 44);
+    font-family: 'Kanit', sans-serif;
+  }
+  
+  h1 {
+    text-shadow: 3px 5px 5px rgba(0, 0, 0, .4);
+  }
+  
+  a{
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: inherit;
+  }
+  .background {
+    height: 100%;
+  }
+  
+  .text-stevo {
+    color: white;
+  }
+  
+  .gif-images {
+    height: 450px;
+    width: 450px;
+  }
+  
+  .search-col {
+    text-align-last: center;
+    text-align: -webkit-center;
+  }
+  
+  .search-container {
+    max-width: max-content;
+  }
